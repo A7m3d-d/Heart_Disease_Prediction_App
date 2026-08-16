@@ -1,2 +1,2 @@
 # Heart_Disease_Prediction_App
-Machine Learning web app for predicting heart disease using Logistic Regression and Gradient Boosting models with Streamlit deployment.
+A machine learning web application for predicting cardiovascular disease using Logistic Regression and Gradient Boosting models, with an interactive Streamlit interface for real-time predictions.
